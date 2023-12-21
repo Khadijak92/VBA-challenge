@@ -11,7 +11,7 @@ This VBA script is a comprehensive tool for analyzing stock market data across m
   - Populates a summary table with Ticker, Yearly Change, Percentage Change, and Total Stock Volume.
 
 - **Conditional Formatting:**
-  -Applies conditional formatting to highlight positive and negative percentage changes.
+  - Applies conditional formatting to highlight positive and negative percentage changes.
 
 - **Maximum Values:**
   - Identifies stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
