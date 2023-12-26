@@ -44,16 +44,6 @@ Run the script to automate the stock market analysis across all worksheets in th
 ## Customization
 - Modify the script to accommodate variations in your data structure.
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request following the guidelines in the [Contributing](CONTRIBUTING.md) file.
-
-## License
-
-
-
-## Acknowledgments
-
-- The script structure and initial implementation were inspired by .
 
 
